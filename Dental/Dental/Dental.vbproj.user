@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\gilma\source\repos\Dental\Dental\My Project\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dentist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DentistMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formAddAppointments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formAddStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formDentist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formDentistDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formEditAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPatientCapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPatientDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPatients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formPrescription.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formTeethChild.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formTreatment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDentistAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMemApplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PasswordForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Patients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeethCollection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
