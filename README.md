@@ -4,7 +4,6 @@ A desktop application built in VB.NET to manage a dental clinic, including patie
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Database Setup](#database-setup)
 - [MySQL Connection Configuration](#mysql-connection-configuration)
 - [Running the Application](#running-the-application)
@@ -15,18 +14,14 @@ A desktop application built in VB.NET to manage a dental clinic, including patie
 - **MySQL Server**: Install [MySQL Server](https://dev.mysql.com/downloads/mysql/) to host the database.
 - **MySQL Workbench** (optional): For managing and visualizing the database.
 
-## Installation
-1. Clone this repository or download it as a ZIP file and extract it.
-2. Open the `.sln` file in Visual Studio.
-
 ## Database Setup
-1. **Locate the MySQL dump file**: The MySQL dump file, `dental_clinic.sql`, is in the `MySql Dump` folder of the project.
+1. **Locate the MySQL dump file**: The MySQL dump file, `Dental_Clinic_Database_Structure.sql`, is in the `MySql Dump` folder of the project.
 2. **Import the database**:
    - Open **MySQL Workbench** or your preferred MySQL client.
    - Create a new database (e.g., `clinic_tooth`).
    - Go to **Server > Data Import** or use the `mysql` command-line tool to import the dump file:
      ```bash
-     mysql -u username -p clinic_tooth < path/to/MySql Dump/dental_clinic.sql
+     mysql -u username -p clinic_tooth < path/to/MySql Dump/Dental_Clinic_Database_Structure.sql
      ```
    - Replace `username` with your MySQL username.
 
